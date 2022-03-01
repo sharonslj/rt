@@ -1,5 +1,4 @@
 # rt
-aaa
 
 ## Project setup
 ```
